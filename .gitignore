@@ -1,0 +1,8 @@
+/dist/
+/test-results/
+*.user
+*.suo
+diagnostic.txt
+.vs/
+.duplex-backups/
+.duplex-tmp-*
